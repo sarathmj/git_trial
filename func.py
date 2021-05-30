@@ -13,7 +13,7 @@ def check_sum(li, k):
 
 
 '''
-python split string function
+python split string function...
 '''
 
 def split_string(str):
