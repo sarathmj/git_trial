@@ -10,3 +10,9 @@ print(check_sum([2, 5, 0], 0))
 result = split_string(str="abcdef")
 print(result)
 
+
+def gn():
+    print("good night")
+
+
+
